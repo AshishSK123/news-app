@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 52,
+    "articles": 
+    [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Friar",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Nvidia and chip stocks jump - Yahoo Finance",
+            "description": "A monthly report on retail sales could provide clues to whether the Fed will go for \"no cut\" at its next meeting.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-nvidia-and-chip-stocks-jump-133104862.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-17T18:39:16Z",
+            "content": "Homebuilders are feeling more confident about the housing market despite a recent sharp rise in mortgage rates.\r\nThe National Association of Home Builders (NAHB)/Wells Fargo Housing Market Index rose… [+1487 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Eleanor Pringle",
+            "title": "Meta reportedly fires staffer on $400K a year for spending $25 meal credits on toothpaste and tea - Fortune",
+            "description": "Meta employees on Blind claimed employees had been fired for spending in-office meal perks on groceries delivered to home.",
+            "url": "https://fortune.com/2024/10/17/meta-staff-layoffs-meal-credits/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-2173579050-e1729157051665.jpg?resize=1200,600",
+            "publishedAt": "2024-10-17T18:34:54Z",
+            "content": "Meta has reportedly fired a handful of staffers who have been abusing the companys $25 meal stipend, spending the money on nonfood items or having meals delivered to their homes.According to posts on… [+3322 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Google is replacing the exec in charge of Search and ads - The Verge",
+            "description": "Google CEO Sundar Pichai announced that Prabhakar Raghavan will take on the role of chief technologist. The Gemini app team is becoming part of Google DeepMind.",
+            "url": "https://www.theverge.com/2024/10/17/24272786/google-search-prabhakar-raghavan-nick-fox",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg",
+            "publishedAt": "2024-10-17T17:11:15Z",
+            "content": "Google is replacing the exec in charge of Search and ads\r\nGoogle is replacing the exec in charge of Search and ads\r\n / Prabhakar Raghavan, the leader of Google Search, Assistant, Geo, Ads, Commerce, … [+1773 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "EU considers calculating X fines by including revenue from Musk’s other firms - Ars Technica",
+            "description": "Musk could face DSA fines of up to 6% of global revenue—including SpaceX sales.",
+            "url": "https://arstechnica.com/tech-policy/2024/10/eu-considers-calculating-x-fines-by-including-revenue-from-musks-other-firms/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X.jpg",
+            "publishedAt": "2024-10-17T17:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": null,
+            "title": "Hacker arrested for the fake SEC tweet that caused a Bitcoin price spike - The Verge",
+            "description": "An Alabama man named Eric Council Jr. has been arrested by the FBI for using SIM swapping to make a fake X post from the SEC claiming Bitcoin ETFs had been approved.",
+            "url": "https://www.theverge.com/2024/10/17/24272739/sec-fake-bitcoin-etf-tweet-fbi-arrest-eric-council",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hWvUxuvUt5W7VoHsfV7ZDY3S9Q0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23262657/VRG_Illo_STK001_B_Sala_Hacker.jpg",
+            "publishedAt": "2024-10-17T16:32:33Z",
+            "content": "Hacker arrested for the fake SEC tweet that caused a Bitcoin price spike\r\nHacker arrested for the fake SEC tweet that caused a Bitcoin price spike\r\n / The FBI says that Eric Council Jr. used a SIM sw… [+1498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "TSMC, Nvidia, Travelers, Elevance, Lucid, Blackstone, Expedia, Netflix, and More Stock Movers - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/stock-market-movers-dbdb09df",
+            "urlToImage": null,
+            "publishedAt": "2024-10-17T16:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Pras Subramanian",
+            "title": "Lucid stock tanking as EV-maker announces share sale ahead of SUV launch - Yahoo Finance",
+            "description": "Lucid Motors announced another capital raise via a share sale late Wednesday night as the California-based EV maker seeks further runway ahead of the release...",
+            "url": "https://finance.yahoo.com/news/lucid-stock-tanking-as-ev-maker-announces-share-sale-ahead-of-suv-launch-161415355.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-17T16:14:15Z",
+            "content": "Lucid Motors stock (LCID) is sliding after the electric vehicle maker announced another capital raise via a share sale late Wednesday night, as the California-based automaker seeks further runway ahe… [+2294 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Mortgage rates march higher for third straight week - Fox Business",
+            "description": "Mortgage rates climbed again for a third straight week, further dinging demand as the housing market continues to suffer from an affordability crisis.",
+            "url": "https://www.foxbusiness.com/economy/mortgage-rates-october-17-2024",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/for-sale.jpg?ve=1&tl=1",
+            "publishedAt": "2024-10-17T16:07:00Z",
+            "content": "Mortgage rates continued their upward climb this week, further hindering demand in the housing market amid elevated rates and high home prices.\r\nFreddie Mac's latest Primary Mortgage Market Survey, r… [+1208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Whitten",
+            "title": "Netflix earnings are after the bell. Here's what to expect - CNBC",
+            "description": "Netflix is due to report third-quarter earnings after the closing bell Thursday.",
+            "url": "https://www.cnbc.com/2024/10/17/netflix-nflx-earnings-q3-2024.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107364079-1706129708707-gettyimages-1958240279-mt2_9014_fgbxpegk.jpeg?v=1721336946&w=1920&h=1080",
+            "publishedAt": "2024-10-17T16:00:01Z",
+            "content": "LOS ANGELES Netflix is due to report third-quarter earnings after the closing bell Thursday.\r\nWall Street will be paying close attention to details surrounding the company's advertising-supported bus… [+1137 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "AI Honeymoon Is Over for Chip Equipment Industry - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/tech/ai-honeymoon-is-over-for-chip-equipment-industry-eedc0ca5",
+            "urlToImage": null,
+            "publishedAt": "2024-10-17T15:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Laura Bratton",
+            "title": "Chip stocks rally as TSMC forecasts strong AI demand for 'many years' - Yahoo Finance",
+            "description": "Taiwan Semiconductor Manufacturing Company's blowout third quarter earnings and optimism over AI demand boosted chip stocks Thursday.",
+            "url": "https://finance.yahoo.com/news/chip-stocks-rally-as-tsmc-forecasts-strong-ai-demand-for-many-years-155420433.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-17T15:54:20Z",
+            "content": "Several chipmaker stocks rallied on Thursday amid optimism over AI demand in Taiwan Semiconductor Manufacturing Company's (TSM) blowout third quarter earnings.\r\nAfter underperforming the broader mark… [+3835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Nvidia Stock Heads to a Record Close After TSMC’s Solid Earnings - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/nvidia-stock-price-d11219fc",
+            "urlToImage": null,
+            "publishedAt": "2024-10-17T15:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Danielle Wallace",
+            "title": "California oil refinery announces closure after Newsom signs more regulations - Fox Business",
+            "description": "The oil company Phillips 66 said its Los Angeles refinery will shut down by the end of 2025 days after California Gov. Gavin Newsom signed new regulations into law.",
+            "url": "https://www.foxbusiness.com/fox-news-politics/california-oil-refinery-announces-closure-after-newsom-signs-new-law",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/gettyimages-2173723304-scaled.jpg?ve=1&tl=1",
+            "publishedAt": "2024-10-17T15:34:00Z",
+            "content": "The oil company Phillips 66 announced Wednesday that it is closing its Los Angeles-area refinery by the end of 2025, pointing to concerns about the future market. \r\nThe announcement comes days after … [+4246 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jonathan O'Connell, Drew Harwell, Tony Romm",
+            "title": "Trump’s business has expanded since 2016 — and so have his potential conflicts - The Washington Post",
+            "description": "As president, Trump could shape policy on cryptocurrency and social media, two industries in which he has new financial interests.",
+            "url": "https://www.washingtonpost.com/investigations/2024/10/17/trump-crypto-business-potential-conflicts/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5RDNHQ6MJRI4SYQJCKXPFVWHY.jpg&w=1440",
+            "publishedAt": "2024-10-17T15:32:34Z",
+            "content": "Former president Donald Trump told cryptocurrency fans at a national bitcoin conference this summer that if elected to a second term, he would turn the United States into the crypto capital of the pl… [+16473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "William Gavin",
+            "title": "Elon Musk's 'one weird trick' to get investors excited about Tesla's Optimus bots - Quartz",
+            "description": "Some were left disappointed by remote-controlled robots at Tesla's \"We, Robot\" demo",
+            "url": "https://qz.com/tesla-optimus-robots-remote-controlled-elon-musk-1851674989",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8ef782e706a53c251fbe38f901aacb13.jpg",
+            "publishedAt": "2024-10-17T14:56:00Z",
+            "content": "In This Story\r\nTesla (TSLA-0.87%\r\n) on Thursday tried to show off its Optimus project again after an event featuring them last week tricked some analysts who were unaware the humanoid robots were bei… [+2456 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Ferrari’s F80 uses ‘Boost optimization’ to give drivers more power where they need it - The Verge",
+            "description": "The 799 Ferrari F80s have a hybrid V6 powertrain with a maximum power output of 1200 horsepower, active aero, and cost more than $3 million.",
+            "url": "https://www.theverge.com/2024/10/17/24272542/ferrari-f80-hybrid-supercar-boost-optimization",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/PCRneOs721cMkCY7y--_m3jzYYE=/0x0:4511x3220/1200x628/filters:focal(2256x1610:2257x1611)/cdn.vox-cdn.com/uploads/chorus_asset/file/25684421/New_Ferrari_Supercar_media__4_b7f91c44_3027_4126_89ac_c75ee48fc346.jpg",
+            "publishedAt": "2024-10-17T14:31:37Z",
+            "content": "Ferraris F80 uses Boost optimization to give drivers more power where they need it\r\nFerraris F80 uses Boost optimization to give drivers more power where they need it\r\n / Ferraris most powerful road … [+2036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Daniella Genovese",
+            "title": "Meal kits with chicken recalled over listeria concerns - Fox Business",
+            "description": "Reser’s Fine Foods issued a voluntary recall for its meal kits, because they include recalled chicken from BrucePac. The company issued the recall out of an abundance of caution.",
+            "url": "https://www.foxbusiness.com/lifestyle/meal-kits-chicken-recalled-over-listeria-concerns",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/chicken-tacos.jpg?ve=1&tl=1",
+            "publishedAt": "2024-10-17T14:19:00Z",
+            "content": "A food manufacturer is recalling a limited number of meal kits, because it includes chicken that may have been contaminated with listeria.\r\nReser’s Fine Foods issued a voluntary recall for its meal k… [+2489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Blackstone Earnings Beat Estimates. CEO Cites a ‘Broad-Based Acceleration.’ - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/blackstone-earnings-stock-price-bcc1c127",
+            "urlToImage": null,
+            "publishedAt": "2024-10-17T14:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Bryan Mena",
+            "title": "A key source of America’s economic power strengthened last month - CNN",
+            "description": "American shoppers continue to power the US economy.",
+            "url": "https://www.cnn.com/2024/10/17/economy/us-retail-sales-september/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2166780005-1-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-17T13:55:00Z",
+            "content": "American shoppers continue to power the US economy.\r\nSpending at US retailers climbed 0.4% in September from the prior month, according to fresh government data released Thursday. That was much stron… [+3377 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Francesco Canepa, Balazs Koranyi",
+            "title": "ECB cuts rates again as euro zone economy stagnates - Reuters",
+            "description": "The European Central Bank cut interest rates on Thursday for the third time this year, saying inflation in the euro zone was increasingly under control while the outlook for the bloc's economy was worsening.",
+            "url": "https://www.reuters.com/markets/rates-bonds/ecb-set-second-straight-rate-cut-economy-stagnates-2024-10-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/JUMQV63CPFMWDHZRSFSI3V7VSA.jpg?auth=3e55bedef54a6a6a1eb1ce6a98ed2ab145539db7cb75e5b01ba7a98fcf425851&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-17T13:28:43Z",
+            "content": null
+        }
+    ]
+}
