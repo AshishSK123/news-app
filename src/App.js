@@ -47,7 +47,7 @@ export default function App() {
 
         <div className="container" >
           <Routes>
-            <Route exact path="/" element={<Container setProgress={setProgress} apikey={apikey} category="global" />}></Route>
+            <Route exact path="/news-app/" element={<Container setProgress={setProgress} apikey={apikey} category="global" />}></Route>
             <Route exact path='/About' element={<About mode={mode} />}></Route>
             <Route exact path="/entertainment" element={<Container setProgress={setProgress} key="Entertainment" apikey={apikey} category="entertainment" />}></Route>
             <Route exact path="/business" element={<Container setProgress={setProgress} key="business" apikey={apikey} category="business" />}></Route>
